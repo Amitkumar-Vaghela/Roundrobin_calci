@@ -26,3 +26,9 @@ Turn Around Time (TAT) = Completion Time (CT) - Arrival Time (AT)
 Waiting Time: It defines the total time between requesting action and acquiring the resource.
 Waiting Time (WT) = Turn Around Time (TAT) - Burst Time (BT)
 Response Time: It is the time that defines at which time the system response to a process.
+
+
+
+
+
+
